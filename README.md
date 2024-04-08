@@ -1,1 +1,1 @@
-# filtro_java_mysql
+# filtro de Java y MySQL
